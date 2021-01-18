@@ -1,3 +1,7 @@
+This project was copied from Web Dev Simplified vidoe tutorial on react
+link to the youtube video
+https://www.youtube.com/watch?v=XN5elYWiSuw
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
